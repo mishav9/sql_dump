@@ -1,0 +1,11 @@
+Clustered Index vs Non-Clustered Index ?
+View vs Materialized View ?
+RANK vs DENSE_RANK vs ROW_NUMBER ?
+INNER JOIN vs OUTER JOIN ?
+WHERE vs HAVING clause ?
+UNION vs UNION ALL ?
+DELETE vs TRUNCATE vs DROP ?
+PRIMARY KEY vs UNIQUE constraint ?
+View vs CTE (Common Table Expression) ?
+EXISTS vs IN ?
+what is order by null ?
