@@ -50,3 +50,15 @@ salary
 i- get the highest salary in each department
 ii- get the second higest salary in each department
 iii- get the top3 salary in each department
+
+4---> Write a sql query to find nof of medals won by swimmers who only have gold models in the event
+
+
+CREATE TABLE events (
+ID int,
+event varchar(255),
+YEAR INt,
+GOLD varchar(255),
+SILVER varchar(255),
+BRONZE varchar(255)
+);
