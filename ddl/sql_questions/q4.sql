@@ -1,3 +1,14 @@
+CREATE TABLE events (
+ID int,
+event varchar(255),
+YEAR INt,
+GOLD varchar(255),
+SILVER varchar(255),
+BRONZE varchar(255)
+);
+
+
+
 INSERT INTO events VALUES (1,'100m',2016, 'Amthhew Mcgarray','donald','barbara');
 INSERT INTO events VALUES (2,'200m',2016, 'Nichole','Alvaro Eaton','janet Smith');
 INSERT INTO events VALUES (3,'500m',2016, 'Charles','Nichole','Susana');
